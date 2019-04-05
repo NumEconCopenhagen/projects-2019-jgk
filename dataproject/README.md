@@ -5,5 +5,6 @@ This project the primary purpose of looking at Egypt's GDP and unemployment rate
 The project is composed of 2 parts, 
 
   1 - Gathering and implementation of data
+  
   2 - Analyzing and processing the data
 
