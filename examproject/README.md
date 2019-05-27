@@ -6,7 +6,7 @@
 
 ### Exam project
 
-The answers to this project is implemented in the exam_2019.ipynb file.
+The answers to this project is implemented in the examproject.ipynb file.
 
 In the first problem, an utility optimization problem is given, along with a model of labour as a function of human capital.
 This is given in a two-period scenario. The purpose is to solve the model, and visualize the results.
