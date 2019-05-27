@@ -1,4 +1,4 @@
-# General README.md for the portfolio
+# Introduction to Programming and Numerical Analysis, Summer 2019
 
 ### Group name: jgk
 
