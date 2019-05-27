@@ -1,0 +1,13 @@
+This is a file which shows the different groups to whom I, jgk716 have provided feedback
+
+Dataproject:
+Group 1 - BCG
+https://github.com/NumEconCopenhagen/projects-2019-bcg/issues/5
+Group 2 - MCB
+https://github.com/NumEconCopenhagen/projects-2019-mcb/issues/6
+
+Modelproject:
+Group 1 - pytonen
+https://github.com/NumEconCopenhagen/projects-2019-pytonen/issues/12
+Group 2 - CL
+https://github.com/NumEconCopenhagen/projects-2019-cl/issues/7
