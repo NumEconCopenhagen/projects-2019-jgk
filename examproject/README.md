@@ -1,10 +1,10 @@
-### Examproject
+# Examproject
 
-# Group name: jgk
+### Group name: jgk
 
-# Group Members: jgk716
+### Group Members: jgk716
 
-# Exam project
+### Exam project
 
 The answers to this project is implemented in the exam_2019.ipynb file.
 
